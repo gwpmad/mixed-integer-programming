@@ -10,7 +10,7 @@ To set up envirnoment and run:
 python3 -m venv venv
 source venv/bin/activate
 
-# install pip in venv
+# install pip in venv (probably not required - see https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/#installing-packages)
 pip install -U pip
 
 # install notebook dependencies
